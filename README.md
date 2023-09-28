@@ -11,12 +11,14 @@ The scope of an app typically includes the following features:
 
 ## Snapshort of the Application
 **Signup & Login**
+
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/0d02dea7-b16d-4611-a2bb-c7577a309034)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/3f406b48-d77d-4876-92ac-27f4136fd665)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/218c06f8-da93-45a2-bbf2-a69e01144bee)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/20c767d1-2213-4b33-81b7-f757e228de8b)
 
 **Customer** 
+
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/c6cd4c8d-56c0-4632-824b-81ef98b7a6af)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/cf331164-f5c3-4032-a1af-791aec8d7dc9)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/96775163-203b-41f3-9ec6-c80e9008e6b7)
@@ -31,6 +33,7 @@ The scope of an app typically includes the following features:
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/3ca988fd-8564-4590-8f28-d99c77111667)
 
 **Restaurant**
+
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/40228da8-f39e-4367-a004-4f9f000b5ccc)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/fb3271f9-a884-42fd-8079-2b74944c8fbb)
 ![image](https://github.com/NikunjSonigara/Restaurant-Reservation-System/assets/106422654/a115569f-405c-4f8b-b432-0c44921a52a1)
