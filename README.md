@@ -1,13 +1,18 @@
 # Restaurant-Reservation-System
 
 ## Purpose
-In this era of life, people’s biggest asset is time, and nobody wants to waste it. My purpose behind this app is to allow customers to easily book a table at a restaurant through the internet, streamline the reservation process for the restaurant, and improve the customer experience by reducing wait times and ensuring availability.
+In today's fast-paced world, where time is our most valuable resource, the purpose of this app is to provide a seamless solution for individuals looking to dine out. Our aim is to empower customers to efficiently book tables at their favorite restaurants using the convenience of the internet. Simultaneously, we seek to optimize the reservation process for restaurants and enhance the overall customer experience by minimizing wait times and ensuring table availability.
 
 ## Scope
-The scope of an app typically includes the following features:
-1.	Reservation of Seat: Customers can choose a restaurant and reserve a seat, specifying the date, time, and person through the application.
-2.	Online Payment: Customers can reserve a seat online by making a payment.
-3.	Reserve Notification with OTP: Customers receive booking notifications, including the otp, after reserving their seat. 
+The scope of this application encompasses the following key features:
+**Reservation of Seat:** Customers will have the ability to browse through a variety of restaurants and effortlessly reserve a table. They can specify the date, time and the number of individuals in their party through the application.
+**Online Payment:** To further enhance convenience, customers will be able to make their reservations by completing the payment online. This feature eliminates the need for in-person transactions and ensures a confirmed reservation.
+**Reserve Notification with OTP:** After successfully reserving a seat, customers will receive immediate booking notifications, including a One-Time Password (OTP) for verification purposes. This added layer of security ensures the authenticity of the reservation and enhances customer trust.
+
+## Technology Stack
+To accomplish our purpose and implement the specified scope, we have leveraged the following cutting-edge technologies:
+**Flutter:** We have chosen Flutter as the framework for building our mobile application. Flutter's cross-platform capabilities enable us to provide a consistent and seamless user experience across both iOS and Android devices. Its rich widget library and fast development cycle enable us to deliver a visually appealing and responsive application.
+**Firebase:** Firebase, a comprehensive platform offered by Google, serves as the backend infrastructure for our application. It provides robust features such as real-time database capabilities, authentication services and cloud functions. Firebase ensures the security and scalability of our app, facilitating secure online payments, user authentication and efficient data management. 
 
 ## Snapshort of the Application
 ### Signup & Login
